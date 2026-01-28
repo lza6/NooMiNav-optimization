@@ -1,0 +1,25 @@
+{
+  "name": "flareportal-full-cf-simulation",
+  "version": "2.0.0",
+  "description": "FlarePortal Full Cloudflare Simulation Server",
+  "main": "local_server_full_cf_simulation.js",
+  "scripts": {
+    "start": "node local_server_full_cf_simulation.js",
+    "dev": "nodemon local_server_full_cf_simulation.js"
+  },
+  "dependencies": {
+    "express": "^4.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "keywords": [
+    "cloudflare",
+    "workers",
+    "simulation",
+    "navigation",
+    "dashboard"
+  ],
+  "author": "FlarePortal",
+  "license": "MIT"
+}

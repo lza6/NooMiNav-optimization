@@ -1,0 +1,13 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "link_id": "test1",
+      "click_time": "2026-01-29 00:49:02",
+      "month_key": "2026_01",
+      "ip_address": "127.0.0.1",
+      "user_agent": "Local Test Environment"
+    }
+  ],
+  "stats": {}
+}
